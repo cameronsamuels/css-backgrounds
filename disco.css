@@ -1,0 +1,13 @@
+/* Color changing disco background */
+body {
+  animation: disco 5s infinite;
+}
+@keyframes disco {
+  0% { background: #f00000 }
+  16% { background: #fd7100 }
+  33% { background: #f0f000 }
+  50% { background: #007343 }
+  67% { background: #413fff }
+  84% { background: #9805c5 }
+  100% { background: #f00000 }
+}

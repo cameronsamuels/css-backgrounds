@@ -1,0 +1,4 @@
+/* Radial spotlight background */
+body {
+  background: radial-gradient(circle, #fff, rgba(64,64,64,.2), #000);
+}

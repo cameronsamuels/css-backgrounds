@@ -1,0 +1,6 @@
+/* Plaid background */
+body {
+  background:
+    linear-gradient(90deg, transparent 50%, rgba(0,0,0,0.1) 50%) 0/10px 10px,
+    linear-gradient(180deg, transparent 50%, rgba(0,0,0,0.1) 50%) 0/10px 10px;
+}

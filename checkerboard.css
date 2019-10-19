@@ -1,0 +1,6 @@
+/* Red and black checkerboard background */
+body {
+  background:
+    linear-gradient(45deg, #000 25%, transparent 25%, transparent 75%, #000 75%, #000 0) 0 0/50px 50px repeat,
+    linear-gradient(45deg, #000 25%, transparent 25%, transparent 75%, #000 75%, #000 0) 25px 25px/50px 50px repeat, #b00;
+}
